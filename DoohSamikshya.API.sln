@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36105.17 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoohSamikshya.API", "DoohSamikshya.API\DoohSamikshya.API.csproj", "{F3C4CAB4-E835-440C-A5DA-BDD724E1FB30}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoohSamikshya.DataAccess", "DoohSamikshya.DataAccess\DoohSamikshya.DataAccess.csproj", "{7365AA4A-886F-443A-905D-30025D2AF6A6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoohSamikshya.Interface", "DoohSamikshya.Interface\DoohSamikshya.Interface.csproj", "{1264BA7C-1E87-4FB8-A7E3-D738B114E915}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoohSamikshya.Model", "DoohSamikshya.Model\DoohSamikshya.Model.csproj", "{5A68613D-5B09-4F85-928D-CF007D2952FC}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DoohSamikshya.Service", "DoohSamikshya.Service\DoohSamikshya.Service.csproj", "{B21D7244-BA70-42A6-B7FF-782EA0421FA0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F3C4CAB4-E835-440C-A5DA-BDD724E1FB30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3C4CAB4-E835-440C-A5DA-BDD724E1FB30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3C4CAB4-E835-440C-A5DA-BDD724E1FB30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3C4CAB4-E835-440C-A5DA-BDD724E1FB30}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7365AA4A-886F-443A-905D-30025D2AF6A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7365AA4A-886F-443A-905D-30025D2AF6A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7365AA4A-886F-443A-905D-30025D2AF6A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7365AA4A-886F-443A-905D-30025D2AF6A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1264BA7C-1E87-4FB8-A7E3-D738B114E915}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1264BA7C-1E87-4FB8-A7E3-D738B114E915}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1264BA7C-1E87-4FB8-A7E3-D738B114E915}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1264BA7C-1E87-4FB8-A7E3-D738B114E915}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5A68613D-5B09-4F85-928D-CF007D2952FC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5A68613D-5B09-4F85-928D-CF007D2952FC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5A68613D-5B09-4F85-928D-CF007D2952FC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5A68613D-5B09-4F85-928D-CF007D2952FC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B21D7244-BA70-42A6-B7FF-782EA0421FA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B21D7244-BA70-42A6-B7FF-782EA0421FA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B21D7244-BA70-42A6-B7FF-782EA0421FA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B21D7244-BA70-42A6-B7FF-782EA0421FA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9263BEC8-CF38-4B27-820B-DECE81909511}
+	EndGlobalSection
+EndGlobal

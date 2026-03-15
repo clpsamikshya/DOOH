@@ -1,0 +1,6 @@
+@DoohSamikshya.API_HostAddress = http://localhost:5008
+
+GET {{DoohSamikshya.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

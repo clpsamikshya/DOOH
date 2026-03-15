@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\DoohSamikshya.DataAccess\DoohSamikshya.DataAccess.csproj" />
+    <ProjectReference Include="..\DoohSamikshya.Interface\DoohSamikshya.Interface.csproj" />
+    <ProjectReference Include="..\DoohSamikshya.Model\DoohSamikshya.Model.csproj" />
+	
+
+  </ItemGroup>
+
+</Project>
